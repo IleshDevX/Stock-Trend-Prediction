@@ -55,7 +55,6 @@ A sophisticated web application that combines artificial intelligence, machine l
 - **Font Awesome** - Icon library for enhanced UI
 
 ### AI & Analysis
-- **VADER Sentiment** - Social media and news sentiment analysis
 - **LSTM Networks** - Long Short-Term Memory neural networks for time series prediction
 - **Technical Analysis** - Moving averages, volatility, and trend analysis
 
@@ -271,15 +270,6 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 - **C** - Citigroup Inc.
 - **AXP** - American Express
 
-## 🛣️ Roadmap
-
-### Upcoming Features
-- [ ] **Multi-asset Support**: Cryptocurrency and forex predictions
-- [ ] **Portfolio Analysis**: Multi-stock portfolio optimization
-- [ ] **Advanced Models**: Transformer and attention-based architectures
-- [ ] **Real-time Alerts**: Price target and trend change notifications
-- [ ] **API Integration**: RESTful API for programmatic access
-- [ ] **Enhanced Visualizations**: 3D charts and advanced technical indicators
 
 ### Performance Improvements
 - [ ] **Model Optimization**: Faster prediction algorithms
